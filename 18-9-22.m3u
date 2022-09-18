@@ -29,3 +29,15 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 #EXTINF: -1 tvg-chno="1", Olympic Safi  🆚 Renaissance Zemamra
 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF: -1 #EXTM3U 
+
+#EXTINF: -1 tvg-chno="1", paris saint germain 🆚 olympique lyonnais
+
+https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.9Wh9xmBazPn7.m3u8
+
+#EXTINF: -1 #EXTM3U 
+
+#EXTINF: -1 tvg-chno="1", paris saint germain 🆚 olympique lyonnais
+
+
