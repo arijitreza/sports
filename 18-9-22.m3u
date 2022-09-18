@@ -2,51 +2,30 @@
 
 #EXTINF: -1 #EXTM3U 
 
-#EXTINF: -1 tvg-chno="1",   ATHLETIC CLUB 🆚 RAYO VALLECANO 1
+#EXTINF: -1 tvg-chno="1",   ROMA 🆚 ATALANTA
 
-https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.qZFCCEVfhHXm.m3u8
-
-#EXTINF: -1 #EXTM3U 
-
-#EXTINF: -1 tvg-chno="1", ATHLETIC CLUB 🆚 RAYO VALLECANO 2
-
-https://99c3311-euwe.streaming.media.azure.net/e2b0cafd-282c-4ad6-b28e-2701bb87fbc2/output-20220917-153427-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+https://sasss-usea.streaming.media.azure.net/93c8206b-3b08-48b6-9294-1283aa03af37/output-20220918-113055-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 
 #EXTINF: -1 #EXTM3U 
 
-#EXTINF: -1 tvg-chno="1", ATHLETIC CLUB 🆚 RAYO VALLECANO 3
+#EXTINF: -1 tvg-chno="1",  REAL SOCIEDAD 🆚 ESPANYOL
 
-https://edge1.lbs.pw/hls/sslaliga/playlist.m3u8
-
-
-#EXTINF: -1 #EXTM3U 
-
-#EXTINF: -1 tvg-chno="1", TORINO 🆚 SASSUOLO 1
-
-https://live-ak.vimeocdn.com/exp=1663442546~acl=%2Fdb1754b4-56ea-4239-91be-0869e8c69eb5%2F%2A~hmac=4fa5955d706776cb02d11eb4aef6df5a5461892f652d439719d3ef155598cde5/db1754b4-56ea-4239-91be-0869e8c69eb5/chunklist_b2056000.m3u8?max_segments=10
+https://sasss-usea.streaming.media.azure.net/6bbc9522-19a6-4b5b-8e65-6dbc33da77d6/1eca30c2-4b40-491f-b361-b1d119b21114.ism/manifest(format=m3u8-cmaf).m3u8
 
 #EXTINF: -1 #EXTM3U 
 
-#EXTINF: -1 tvg-chno="1", TORINO 🆚 SASSUOLO 2
+#EXTINF: -1 tvg-chno="1", REAL BETIS 🆚 GIRONA
 
-https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.qGmkM8SffymG.m3u8
-
-#EXTINF: -1 #EXTM3U 
-
-#EXTINF: -1 tvg-chno="1", TORINO 🆚 SASSUOLO 3
-
-http://158.101.194.132:8080/channel/n33d7f9a2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+https://live-ak.vimeocdn.com/exp=1663520959~acl=%2F286ddd81-2d8b-4750-932f-cad478d19101%2F%2A~hmac=53d4828e3a07ae96bf925fc47e1003cc0fe6289753c68a3f5c7cfb5c8fd648d7/286ddd81-2d8b-4750-932f-cad478d19101/chunklist_b2056000.m3u8?max_segments=10
 
 #EXTINF: -1 #EXTM3U 
 
-#EXTINF: -1 tvg-chno="1", TORINO 🆚 SASSUOLO 4
+#EXTINF: -1 tvg-chno="1", Olympic Safi  🆚 Renaissance Zemamra
 
-https://hls.lbs.pw/hls/fut1/playlist.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
 #EXTINF: -1 #EXTM3U 
 
-#EXTINF: -1 tvg-chno="1",  LILLE 🆚 TOULOUSE
+#EXTINF: -1 tvg-chno="1", Olympic Safi  🆚 Renaissance Zemamra
 
-https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.ZV4FBZUegyMp.m3u8
-
-
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
